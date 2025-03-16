@@ -1,4 +1,4 @@
-# Advertisement Management System (Java)
+# Advertisement Management System (Java) - Code Date: August 2021
 
 This repository contains a **Java-based advertisement management system**, developed using **NetBeans** and built with **Apache Ant**. The project includes a **main system**, as well as **two assignment iterations** showcasing its development process.
 
